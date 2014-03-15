@@ -12,9 +12,9 @@
 		"email": "weixiao909@gmail.com",
 		"url": "http://weibo.com/xiaoyue909"
 	}],
-	"main": "",
+	"main": "./start.js",
 	"dependencies": {
-		
+		"uglify-js":"*"
 	},
 	"scripts":{
 
