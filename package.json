@@ -1,10 +1,9 @@
 {
 	"name": "js-combine-pack",
 	"version": "0.0.8",
-	"description": "js css combine uglify",
+	"description": "js css combine",
 	"keywords": [
-		"combine",
-		"uglify"
+		"combine"
 	],
 	"homepage": "https://github.com/liuxiaoyue/js-combine-pack",
 	"author": [{
@@ -13,12 +12,6 @@
 		"url": "http://weibo.com/xiaoyue909"
 	}],
 	"main": "./start.js",
-	"dependencies": {
-		"uglify-js":"*"
-	},
-	"scripts":{
-
-	},
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/liuxiaoyue/js-combine-pack"
