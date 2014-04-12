@@ -13,7 +13,7 @@ var tool = utils.tool;
 var toolOptions = tool.config;
 
 toolOptions.projectName = "your project name";
-
+toolOptions.basedir = "rootdir";
 ```
 
 ### tool.findFiles.allFilesList(filedir)
