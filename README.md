@@ -31,10 +31,10 @@ var jsListCon =  tool.findFiles.allFilesCon(["test/jobs/test1.js","test/jobs/tes
 //Access to the content of each item in the array
 
 ```
-### tool.findJsAllImport(filepath,allFilesCon,callback)
+### tool.findJsAllImport(filedir,allFilesCon,callback)
 
 ```js
-var findJsAllImport = tool.findJsAllImport(filepath,allFilesCon,callback);
+var findJsAllImport = tool.findJsAllImport(filedir,allFilesCon,callback);
 //Search for all files change, facilitate incremental packaging
 
 ```
