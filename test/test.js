@@ -7,7 +7,7 @@ var tool = require('../lib/pack-tool');
 var fs = require('fs');
 var basePath = __dirname+'/../../blog7';
 
-tool.getAllJsDeps(basePath, 'conf/editor.dev.js', function(files){
+tool.getAllJsDeps(basePath, 'conf/editor_new_publish.dev.js', function(files){
 	console.log(files.join('\n'));
 });
 //
