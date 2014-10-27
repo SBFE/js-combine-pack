@@ -5,7 +5,7 @@
 	"keywords": [
 		"combine"
 	],
-	"homepage": "https://github.com/liuxiaoyue/js-combine-pack",
+	"homepage": "https://github.com/SBFE/js-combine-pack",
 	"author": [{
 		"name": "weixiao909",
 		"email": "weixiao909@gmail.com",
@@ -14,7 +14,7 @@
 	"main": "./start.js",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/liuxiaoyue/js-combine-pack"
+		"url": "https://github.com/SBFE/js-combine-pack"
 	},
 	"license": "MIT"
 }
