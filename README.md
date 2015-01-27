@@ -3,6 +3,8 @@ js-combine-pack
 
 >blog ria reusable utils
 
+[api详细介绍文档](http://liuxiaoyue.sinaapp.com/js-combine-pack/1.0.0/index.html)
+
 ##public api for node
 
 ```js
